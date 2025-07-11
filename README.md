@@ -39,3 +39,6 @@ cd movie-recommender
 pip install -r requirements.txt
 streamlit run app.py
 
+📬 Contact
+Built by Cheshta Sharma
+📧 cheshtas1810@gmail.com
